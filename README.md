@@ -26,7 +26,7 @@ To begin using this template, choose one of the following options to get started
 "This branch is for CI/CD setup"
 
 ### Basic Usage
-
+e
 After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, open the `index.html` file in your web browser.
 
 ### Advanced Usage
